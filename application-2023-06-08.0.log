@@ -1,0 +1,10 @@
+18:36:58.194 [main] TRACE p.logging.LevelTest - trace
+18:36:58.201 [main] DEBUG p.logging.LevelTest - debug
+18:36:58.201 [main] INFO  p.logging.LevelTest - Info
+18:36:58.202 [main] WARN  p.logging.LevelTest - warn
+18:36:58.203 [main] ERROR p.logging.LevelTest - error
+18:52:26.043 [main] TRACE p.logging.LevelTest - trace
+18:52:26.046 [main] DEBUG p.logging.LevelTest - debug
+18:52:26.046 [main] INFO  p.logging.LevelTest - Info
+18:52:26.047 [main] WARN  p.logging.LevelTest - warn
+18:52:26.048 [main] ERROR p.logging.LevelTest - error

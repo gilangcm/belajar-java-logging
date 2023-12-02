@@ -1,0 +1,72 @@
+06:26:42.982 [main] INFO  p.logging.MyController - 8f93615c-3215-465a-aa70-d1b827586d29 - Controller Save
+06:26:43.000 [main] INFO  p.logging.MyService - 8f93615c-3215-465a-aa70-d1b827586d29 - Service Save
+06:26:43.000 [main] INFO  p.logging.MyRepository - 8f93615c-3215-465a-aa70-d1b827586d29 - Repository Save
+06:39:32.461 [main] INFO  p.logging.MyController - [] - 0c0fd672-a51f-4b4b-8248-f05ae58ca2ee - Controller Save
+06:39:32.468 [main] INFO  p.logging.MyService - [] - 0c0fd672-a51f-4b4b-8248-f05ae58ca2ee - Service Save
+06:39:32.469 [main] INFO  p.logging.MyRepository - [] - 0c0fd672-a51f-4b4b-8248-f05ae58ca2ee - Repository Save
+06:41:57.107 [main] INFO  p.logging.MyController - [321b9760-afa4-4e7a-ba89-63880ca3c59b] - 321b9760-afa4-4e7a-ba89-63880ca3c59b - Controller Save
+06:41:57.114 [main] INFO  p.logging.MyService - [321b9760-afa4-4e7a-ba89-63880ca3c59b] - 321b9760-afa4-4e7a-ba89-63880ca3c59b - Service Save
+06:41:57.115 [main] INFO  p.logging.MyRepository - [321b9760-afa4-4e7a-ba89-63880ca3c59b] - 321b9760-afa4-4e7a-ba89-63880ca3c59b - Repository Save
+06:45:08.426 [main] INFO  p.logging.MyController - [d61fe253-2626-4d05-a990-dd5bc48784a6] - Controller Save
+06:45:08.430 [main] INFO  p.logging.MyService - [d61fe253-2626-4d05-a990-dd5bc48784a6] - Service Save
+06:45:08.430 [main] INFO  p.logging.MyRepository - [d61fe253-2626-4d05-a990-dd5bc48784a6] - Repository Save
+06:50:03.088 [Thread-6] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.088 [Thread-2] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.088 [Thread-7] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.091 [Thread-6] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.092 [Thread-6] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.092 [Thread-7] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.088 [Thread-8] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.093 [Thread-8] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.094 [Thread-8] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.093 [Thread-7] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.091 [Thread-2] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.088 [Thread-0] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.098 [Thread-2] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.088 [Thread-3] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.099 [Thread-3] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.101 [Thread-3] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.098 [Thread-0] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.105 [Thread-0] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.088 [Thread-1] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.088 [Thread-5] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.107 [Thread-5] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.106 [Thread-1] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.088 [Thread-4] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.107 [Thread-5] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.109 [Thread-4] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.109 [Thread-4] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.108 [Thread-1] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:50:03.111 [Thread-9] INFO  p.logging.MyController - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Controller Save
+06:50:03.111 [Thread-9] INFO  p.logging.MyService - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Service Save
+06:50:03.112 [Thread-9] INFO  p.logging.MyRepository - [46545f4a-09f3-4f4c-afa3-6ed94aece5d4] - Repository Save
+06:51:59.014 [Thread-3] INFO  p.logging.MyController - [83689835-3151-4edd-839b-ff9f775de8be] - Controller Save
+06:51:59.014 [Thread-6] INFO  p.logging.MyController - [86d74c2b-3e24-4b41-a0e5-ab3329cb4f30] - Controller Save
+06:51:59.014 [Thread-5] INFO  p.logging.MyController - [865bf632-788d-47e3-911b-00d628357d4b] - Controller Save
+06:51:59.018 [Thread-5] INFO  p.logging.MyService - [865bf632-788d-47e3-911b-00d628357d4b] - Service Save
+06:51:59.017 [Thread-3] INFO  p.logging.MyService - [83689835-3151-4edd-839b-ff9f775de8be] - Service Save
+06:51:59.014 [Thread-1] INFO  p.logging.MyController - [05234e2e-b4cb-40ff-ae09-676cfadf4ea3] - Controller Save
+06:51:59.014 [Thread-4] INFO  p.logging.MyController - [6a1a722a-bf5e-4e63-b0cf-5394b7cb3a8d] - Controller Save
+06:51:59.018 [Thread-5] INFO  p.logging.MyRepository - [865bf632-788d-47e3-911b-00d628357d4b] - Repository Save
+06:51:59.014 [Thread-2] INFO  p.logging.MyController - [ce2bbc67-b44c-4706-8c73-b6b82f18f0df] - Controller Save
+06:51:59.019 [Thread-4] INFO  p.logging.MyService - [6a1a722a-bf5e-4e63-b0cf-5394b7cb3a8d] - Service Save
+06:51:59.020 [Thread-2] INFO  p.logging.MyService - [ce2bbc67-b44c-4706-8c73-b6b82f18f0df] - Service Save
+06:51:59.020 [Thread-2] INFO  p.logging.MyRepository - [ce2bbc67-b44c-4706-8c73-b6b82f18f0df] - Repository Save
+06:51:59.020 [Thread-4] INFO  p.logging.MyRepository - [6a1a722a-bf5e-4e63-b0cf-5394b7cb3a8d] - Repository Save
+06:51:59.014 [Thread-0] INFO  p.logging.MyController - [b60ec33a-00f4-408c-9206-bf70a366db0a] - Controller Save
+06:51:59.014 [Thread-9] INFO  p.logging.MyController - [4f60dbcf-534b-4ff8-9d9e-98caf4e21c65] - Controller Save
+06:51:59.014 [Thread-7] INFO  p.logging.MyController - [bafd280e-c5c0-4b6f-9af3-3fb87689cbd3] - Controller Save
+06:51:59.022 [Thread-9] INFO  p.logging.MyService - [4f60dbcf-534b-4ff8-9d9e-98caf4e21c65] - Service Save
+06:51:59.022 [Thread-7] INFO  p.logging.MyService - [bafd280e-c5c0-4b6f-9af3-3fb87689cbd3] - Service Save
+06:51:59.022 [Thread-9] INFO  p.logging.MyRepository - [4f60dbcf-534b-4ff8-9d9e-98caf4e21c65] - Repository Save
+06:51:59.022 [Thread-7] INFO  p.logging.MyRepository - [bafd280e-c5c0-4b6f-9af3-3fb87689cbd3] - Repository Save
+06:51:59.021 [Thread-0] INFO  p.logging.MyService - [b60ec33a-00f4-408c-9206-bf70a366db0a] - Service Save
+06:51:59.024 [Thread-0] INFO  p.logging.MyRepository - [b60ec33a-00f4-408c-9206-bf70a366db0a] - Repository Save
+06:51:59.014 [Thread-8] INFO  p.logging.MyController - [a6925cc1-59da-4e3a-afd7-89eba9caa6a0] - Controller Save
+06:51:59.017 [Thread-6] INFO  p.logging.MyService - [86d74c2b-3e24-4b41-a0e5-ab3329cb4f30] - Service Save
+06:51:59.026 [Thread-6] INFO  p.logging.MyRepository - [86d74c2b-3e24-4b41-a0e5-ab3329cb4f30] - Repository Save
+06:51:59.019 [Thread-1] INFO  p.logging.MyService - [05234e2e-b4cb-40ff-ae09-676cfadf4ea3] - Service Save
+06:51:59.026 [Thread-1] INFO  p.logging.MyRepository - [05234e2e-b4cb-40ff-ae09-676cfadf4ea3] - Repository Save
+06:51:59.026 [Thread-8] INFO  p.logging.MyService - [a6925cc1-59da-4e3a-afd7-89eba9caa6a0] - Service Save
+06:51:59.018 [Thread-3] INFO  p.logging.MyRepository - [83689835-3151-4edd-839b-ff9f775de8be] - Repository Save
+06:51:59.027 [Thread-8] INFO  p.logging.MyRepository - [a6925cc1-59da-4e3a-afd7-89eba9caa6a0] - Repository Save
